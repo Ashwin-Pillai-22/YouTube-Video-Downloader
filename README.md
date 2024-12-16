@@ -6,8 +6,8 @@ A Python-based YouTube Video Downloader that lets you download videos and audio 
 
 ## 📌 Features  
 - 🎥 **Download Videos**: Supports multiple resolutions, including 360p, 720p, and 1080p.  
-- 🎵 **Audio Extraction**: Save audio in MP3 or other formats.  
-- 🔍 **Simple Interface**: User-friendly CLI or optional GUI with `tkinter`(Working on this).  
+- 🎵 **Audio Extraction**: Save audio.  
+- 🔍 **Simple Interface**: User-friendly CLI.  
 - ✅ **Lightweight**: Minimal dependencies and quick setup.  
 
 ---
